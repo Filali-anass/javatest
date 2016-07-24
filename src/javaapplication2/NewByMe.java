@@ -12,4 +12,5 @@ package javaapplication2;
  */
 public class NewByMe {
     int OtherOneChangedThis ;
+    int Well_This_Time_change_from_me_to_firstBranche ;
 }
