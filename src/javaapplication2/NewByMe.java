@@ -23,4 +23,5 @@ public class NewByMe {
 
     int machakiiil2;
     int orign;
+    int drq;
 }
