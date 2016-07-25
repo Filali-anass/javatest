@@ -15,7 +15,11 @@ public class NewByMe {
     int OtherOneChangedThis2 ;
     int myChanges;
     int my2;
+    int khalid;
     int anass;
     int machakiiil;
+
     int testmachakil;
+
+    int machakiiil2;
 }
