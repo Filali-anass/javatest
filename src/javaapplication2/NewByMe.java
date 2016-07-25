@@ -14,4 +14,5 @@ public class NewByMe {
     int OtherOneChangedThis ; 
     int OtherOneChangedThis2 ;
     int myChanges;
+    int myChanges2;
 }
