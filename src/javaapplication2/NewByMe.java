@@ -22,4 +22,5 @@ public class NewByMe {
     int testmachakil;
 
     int machakiiil2;
+    int orign;
 }
