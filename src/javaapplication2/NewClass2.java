@@ -3,15 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package javaapplication2;
 
 /**
  *
- * @author filali
+ * @author ELITE
  */
-public class NewByMe {
-    int OtherOneChangedThis ; 
-    int OtherOneChangedThis2 ;
-    int myChanges;
+public class NewClass2 {
+    
 }
