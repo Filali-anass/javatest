@@ -6,6 +6,8 @@
 
 package javaapplication2;
 
+import java.util.Collection;
+
 /**
  *
  * @author filali
@@ -23,4 +25,7 @@ public class NewByMe {
 
     int machakiiil2;
     int orign;
+    int drqj;
+    int hh;
+    Collection<String>nom;
 }
