@@ -28,4 +28,5 @@ public class NewByMe {
     int drqj;
     int hh;
     Collection<String>nom;
+    int oofirstBranche;
 }
