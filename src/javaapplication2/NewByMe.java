@@ -26,6 +26,6 @@ public class NewByMe {
     int machakiiil2;
     int orign;
     int drqj;
-    int hh;
-    Collection<String>nom;
+    int oofirstBranche;
+    int pp;
 }
